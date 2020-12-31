@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> de007a3b374c20032ffa9dbfe8ef738d7b60d636
 export default class ColorBox extends Component {
   
   render() {
